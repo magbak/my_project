@@ -1,3 +1,3 @@
 # my_project
-Welcome to the project (it is terrible)!!
-The end is near!
+Welcome to the project!!
+We are planning great things!
